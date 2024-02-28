@@ -8,3 +8,8 @@ echo "" >> ~/.bashrc
 echo "source ~/termc/.conf" >> ~/.bashrc
 source ~/.bashrc
 ```
+<div align="center">
+    <a href="./">
+        <img src="./Screenshot.png" width="79%"/>
+    </a>
+</div>
